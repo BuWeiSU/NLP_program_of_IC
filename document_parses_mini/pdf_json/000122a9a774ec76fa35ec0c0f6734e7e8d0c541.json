@@ -1,0 +1,1918 @@
+{
+    "paper_id": "000122a9a774ec76fa35ec0c0f6734e7e8d0c541",
+    "metadata": {
+        "title": "Impact of COVID-19 on ST-segment elevation myocardial infarction care. The Spanish experience",
+        "authors": [
+            {
+                "first": "Oriol",
+                "middle": [],
+                "last": "Rodr\u00edguez-Leor",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centro de Investigaci\u00f3n Biome\u00b4dica en Red Enfermedades Cardiovaculares (CIBERCV)",
+                    "institution": "Instituto de Salud Carlos III",
+                    "location": {
+                        "settlement": "Madrid",
+                        "country": "Spain"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Bel\u00e9 N Cid-\u00c1 Lvarez",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Santiago de Compostela, A Coru\u00f1a",
+                    "location": {
+                        "country": "Spain"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Armando",
+                "middle": [],
+                "last": "P\u00e9 Rez De Prado",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hospital de Le\u00f3n",
+                    "location": {
+                        "settlement": "Le\u00f3n",
+                        "country": "Espa\u00f1a"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xavier",
+                "middle": [],
+                "last": "Rossello",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centro de Investigaci\u00f3n Biome\u00b4dica en Red Enfermedades Cardiovaculares (CIBERCV)",
+                    "institution": "Instituto de Salud Carlos III",
+                    "location": {
+                        "settlement": "Madrid",
+                        "country": "Spain"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Soledad",
+                "middle": [],
+                "last": "Ojeda",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Universidad de C\u00f3rdoba",
+                    "location": {
+                        "settlement": "C\u00f3rdoba",
+                        "country": "Spain"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ana",
+                "middle": [],
+                "last": "Serrador",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centro de Investigaci\u00f3n Biome\u00b4dica en Red Enfermedades Cardiovaculares (CIBERCV)",
+                    "institution": "Instituto de Salud Carlos III",
+                    "location": {
+                        "settlement": "Madrid",
+                        "country": "Spain"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ram\u00f3",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "L\u00f3 Pez-Palop",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hospital Virgen de la Arrixaca",
+                    "location": {
+                        "addrLine": "El Palmar",
+                        "settlement": "Murcia",
+                        "country": "Spain"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Javier",
+                "middle": [],
+                "last": "Mart\u00edn-Moreiras",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centro de Investigaci\u00f3n Biome\u00b4dica en Red Enfermedades Cardiovaculares (CIBERCV)",
+                    "institution": "Instituto de Salud Carlos III",
+                    "location": {
+                        "settlement": "Madrid",
+                        "country": "Spain"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jos\u00e9",
+                "middle": [],
+                "last": "Ram\u00f3",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hospital Universitario IIS-Fundaci\u00f3n Jime\u00b4nez D\u0131\u00b4az",
+                    "location": {
+                        "settlement": "Madrid",
+                        "country": "Spain"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Rumoroso",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hospital de Galdakao-Usansolo",
+                    "location": {
+                        "settlement": "Galdakao",
+                        "region": "Vizcaya",
+                        "country": "Spain"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Cequier",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Universitat de Barcelona, L'Hospitalet de Llobregat",
+                    "location": {
+                        "settlement": "Barcelona",
+                        "country": "Spain"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Borja",
+                "middle": [],
+                "last": "Ib\u00e1 \u00d1 Ez",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centro de Investigaci\u00f3n Biome\u00b4dica en Red Enfermedades Cardiovaculares (CIBERCV)",
+                    "institution": "Instituto de Salud Carlos III",
+                    "location": {
+                        "settlement": "Madrid",
+                        "country": "Spain"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ignacio",
+                "middle": [],
+                "last": "Cruz-Gonz\u00e1 Lez",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centro de Investigaci\u00f3n Biome\u00b4dica en Red Enfermedades Cardiovaculares (CIBERCV)",
+                    "institution": "Instituto de Salud Carlos III",
+                    "location": {
+                        "settlement": "Madrid",
+                        "country": "Spain"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Rafael",
+                "middle": [],
+                "last": "Romaguera",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Universitat de Barcelona, L'Hospitalet de Llobregat",
+                    "location": {
+                        "settlement": "Barcelona",
+                        "country": "Spain"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ra\u00fa",
+                "middle": [
+                    "L"
+                ],
+                "last": "Moreno",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centro de Investigaci\u00f3n Biome\u00b4dica en Red Enfermedades Cardiovaculares (CIBERCV)",
+                    "institution": "Instituto de Salud Carlos III",
+                    "location": {
+                        "settlement": "Madrid",
+                        "country": "Spain"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Introduction and objectives: The COVID-19 outbreak has had an unclear impact on the treatment and outcomes of patients with ST-segment elevation myocardial infarction (STEMI). The aim of this study was to assess changes in STEMI management during the COVID-19 outbreak. Methods: Using a multicenter, nationwide, retrospective, observational registry of consecutive patients who were managed in 75 specific STEMI care centers in Spain, we compared patient and procedural characteristics and in-hospital outcomes in 2 different cohorts with 30-day follow-up according to whether the patients had been treated before or after COVID-19. Results: Suspected STEMI patients treated in STEMI networks decreased by 27.6% and patients with confirmed STEMI fell from 1305 to 1009 (22.7%). There were no differences in reperfusion strategy (> 94% treated with primary percutaneous coronary intervention in both cohorts). Patients treated with primary percutaneous coronary intervention during the COVID-19 outbreak had a longer ischemic time (233 [150-375] vs 200 [140-332] minutes, P < .001) but showed no differences in the time from first medical contact to reperfusion. In-hospital mortality was higher during COVID-19 (7.5% vs 5.1%; unadjusted OR, 1.50; 95%CI, 1.07-2.11; P < .001); this association remained after adjustment for confounders (risk-adjusted OR, 1.88; 95%CI, 1.12-3.14; P = .017). In the 2020 cohort, there was a 6.3% incidence of confirmed SARS-CoV-2 infection during hospitalization. Conclusions: The number of STEMI patients treated during the current COVID-19 outbreak fell vs the previous year and there was an increase in the median time from symptom onset to reperfusion and a significant 2-fold increase in the rate of in-hospital mortality. No changes in reperfusion strategy were detected, with primary percutaneous coronary intervention performed for the vast majority of patients. The co-existence of STEMI and SARS-CoV-2 infection was relatively infrequent.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Introduction and objectives: The COVID-19 outbreak has had an unclear impact on the treatment and outcomes of patients with ST-segment elevation myocardial infarction (STEMI). The aim of this study was to assess changes in STEMI management during the COVID-19 outbreak. Methods: Using a multicenter, nationwide, retrospective, observational registry of consecutive patients who were managed in 75 specific STEMI care centers in Spain, we compared patient and procedural characteristics and in-hospital outcomes in 2 different cohorts with 30-day follow-up according to whether the patients had been treated before or after COVID-19. Results: Suspected STEMI patients treated in STEMI networks decreased by 27.6% and patients with confirmed STEMI fell from 1305 to 1009 (22.7%) . There were no differences in reperfusion strategy (> 94% treated with primary percutaneous coronary intervention in both cohorts). Patients treated with primary percutaneous coronary intervention during the COVID-19 outbreak had a longer ischemic time (233 [150-375] vs 200 [140-332] minutes, P < .001) but showed no differences in the time from first medical contact to reperfusion. In-hospital mortality was higher during COVID-19 (7.5% vs 5.1%; unadjusted OR, 1.50; 95%CI, ; P < .001); this association remained after adjustment for confounders (risk-adjusted OR, 1.88; 95%CI, 1.12-3.14; P = .017). In the 2020 cohort, there was a 6.3% incidence of confirmed SARS-CoV-2 infection during hospitalization. Conclusions: The number of STEMI patients treated during the current COVID-19 outbreak fell vs the previous year and there was an increase in the median time from symptom onset to reperfusion and a significant 2-fold increase in the rate of in-hospital mortality. No changes in reperfusion strategy were detected, with primary percutaneous coronary intervention performed for the vast majority of patients. The co-existence of STEMI and SARS-CoV-2 infection was relatively infrequent. C 2020 Sociedad Espa\u00f1ola de Cardiolog\u00eda. Published by Elsevier Espa\u00f1a, S.L.U. All rights reserved.",
+            "cite_spans": [
+                {
+                    "start": 769,
+                    "end": 776,
+                    "text": "(22.7%)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1031,
+                    "end": 1062,
+                    "text": "(233 [150-375] vs 200 [140-332]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1212,
+                    "end": 1226,
+                    "text": "(7.5% vs 5.1%;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1227,
+                    "end": 1241,
+                    "text": "unadjusted OR,",
+                    "ref_id": null
+                },
+                {
+                    "start": 1242,
+                    "end": 1247,
+                    "text": "1.50;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1248,
+                    "end": 1254,
+                    "text": "95%CI,",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "On December 31, 2019, a cluster of pneumonia cases of unknown etiology was reported in Wuhan, Hubei Province, China. On January 9, 2020, a new coronavirus, SARS-CoV-2, was identified as the causative agent of this outbreak, and its associated disease was named coronavirus disease 2019 . The infection spread rapidly, and the World Health Organization characterized COVID-19 as a pandemic on March 11. 1 By May 1, 2020, more than 1.6 million cases had been diagnosed in 179 countries on 5 continents, with nearly 100 000 confirmed deaths. 1 The Spanish Government activated a State of Emergency on March 14, which restricted the movement of all citizens, except those going to work, to hospitals or health centers, and to financial institutions and those shopping for groceries, pharmaceutics, and basic necessities. 2 The impact of this new disease on societal behavior and on health care system performance is unprecedented in recent history. During the current COVID-19 outbreak, some preliminary reports have highlighted a decrease in the number of ST-segment elevation myocardial infarction (STEMI) patients attending hospitals in Europe and North America, [3] [4] [5] but we have limited information on how the outbreak has affected STEMI networks in terms of delays to reperfusion, revascularization strategies, and clinical outcomes. 6, 7 The objective of this study was to compare clinical characteristics, management, and hospital outcomes in a nationwide cohort between STEMI patients who attended in the first 30 days after the Spanish lockdown during the current COVID-19 outbreak and those who attended in a period prior to COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 817,
+                    "end": 818,
+                    "text": "2",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 1162,
+                    "end": 1165,
+                    "text": "[3]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1166,
+                    "end": 1169,
+                    "text": "[4]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 1170,
+                    "end": 1173,
+                    "text": "[5]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1342,
+                    "end": 1344,
+                    "text": "6,",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 1345,
+                    "end": 1346,
+                    "text": "7",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "There are 17 regional public service STEMI care networks in Spain, which comprise 83 hospitals capable of performing primary percutaneous coronary interventions (pPCIs) in year-round 24hour, 7-day a week programs. In 2018, 21 261 interventions were performed for STEMI (91.6% pPCIs, 3.2% rescue percutaneous coronary interventions, and 5.1% routine early percutaneous coronary interventions strategies after fibrinolysis), representing 417 pPCIs per million population. 8 In 2019, the Interventional Cardiology Association of the Spanish Society of Cardiology sponsored a prospective registry of consecutive STEMI patients who were treated within these specific STEMI care networks. The aim of this Spanish Infarct Code Registry was to detect interregional differences in the management of STEMI. Information was collected on number of cases, clinical characteristics, clinical management, and outcomes of STEMI patients. This registry enrolled 5240 consecutive patients treated between April and June 2019.",
+            "cite_spans": [
+                {
+                    "start": 470,
+                    "end": 471,
+                    "text": "8",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Spanish STEMI registry"
+        },
+        {
+            "text": "During the current COVID-19 outbreak, the Spanish Interventional Cardiology Association established a twin registry involving the retrospective collection of information on all consecutive STEMI patients by the same centers that participated in the 2019 registry. Information was retrospectively recorded on number of cases, clinical characteristics, clinical management, and outcomes from March 16, which was immediately after the activation of the Spanish State of Emergency and the countrywide lockdown.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Spanish STEMI registry"
+        },
+        {
+            "text": "Impacto de la COVID-19 en el tratamiento del infarto agudo de miocardio con elevaci\u00f3 n del segmento ST. La experiencia espa\u00f1 ola Palabras clave: IAMCEST COVID-19 Angioplastia primaria Red de atenci\u00f3 n al infarto R E S U M E N Introduccio\u00b4n y objetivos: El impacto del brote de COVID-19 en el tratamiento del infarto agudo de miocardio con elevaci\u00f3 n del segmento ST (IAMCEST) no est\u00e1 claro. El objetivo de este estudio es evaluar los cambios en el tratamiento del IAMCEST durante el brote de COVID-19. Me\u00b4todos: Se utiliz\u00f3 un registro multic\u00e9 ntrico, nacional, retrospectivo y observacional de pacientes consecutivos atendidos en 75 centros, se compararon las caracter\u00edsticas de los pacientes y de los procedimientos y los resultados hospitalarios en 2 cohortes seg\u00fa n se los hubiera tratado antes o durante la COVID-19. Resultados: Los casos con sospecha de IAMCEST disminuyeron el 27,6% y los pacientes con IAMCEST confirmado se redujeron de 1.305 a 1.009 (22,7%) . No hubo diferencias en la estrategia de reperfusi\u00f3 n (m\u00e1 s del 94% tratados con angioplastia primaria). El tiempo de isquemia fue m\u00e1 s largo durante la frente a 200 [140-332] min; p < 0,001), sin diferencias en el tiempo primer contacto m\u00e9 dico-reperfusi\u00f3 n. La mortalidad hospitalaria fue mayor durante la COVID-19 (el 7,5 frente al 5,1%; OR bruta = 1,50; IC95%, 1,07-2,11; p < 0,001); esta asociaci\u00f3 n se mantuvo tras ajustar por factores de confusi\u00f3 n (OR ajustada = 1,88; IC95%, 1,12-3,14; p = 0,017). La incidencia de infecci\u00f3 n confirmada por SARS-CoV-2 fue del 6,3%. Conclusiones: El brote de COVID-19 ha implicado una disminuci\u00f3 n en el n\u00fa mero de pacientes con IAMCEST, un aumento del tiempo entre el inicio de los s\u00edntomas y la reperfusi\u00f3 n y un aumento en la mortalidad hospitalaria. No se han detectado cambios en la estrategia de reperfusi\u00f3 n. La combinaci\u00f3 n de infecci\u00f3 n por SARS-CoV-2 e IAMCEST fue relativamente infrecuente. C 2020 Sociedad Espa\u00f1ola de Cardiolog\u00eda. Publicado por Elsevier Espa\u00f1a, S.L.U. Todos los derechos reservados.",
+            "cite_spans": [
+                {
+                    "start": 958,
+                    "end": 965,
+                    "text": "(22,7%)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Spanish STEMI registry"
+        },
+        {
+            "text": "Abbreviations COVID-19: coronavirus disease 2019 PCI: percutaneous coronary intervention PCR: polymerase chain reaction pPCI: primary percutaneous coronary intervention STEMI: ST-segment elevation acute myocardial infarction",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Spanish STEMI registry"
+        },
+        {
+            "text": "The research protocol was approved by the Working Group on STEMI Code of the Spanish Interventional Cardiology Association and by a central ethics committee from Le\u00f3 n and Bierzo Health Areas.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Spanish STEMI registry"
+        },
+        {
+            "text": "This multicenter, retrospective, observational cohort study evaluated procedures recorded in the Spanish Infarct Code Registry database to assess whether the current COVID-19 outbreak has had a relevant impact on STEMI treatment in terms of number of cases, clinical characteristics, reperfusion delays, in-hospital management, and in-hospital clinical outcomes. Two different cohorts of patients were established according to whether they had been treated between April 1 and April 30, 2019 (prior to COVID-19 cohort) or between March 16 and April 14, 2020 (during COVID-19 cohort) . The analysis included data from 75 hospitals that enrolled patients in both periods. Delay times were defined according to the relevant European guidelines. 9 Patients with a final diagnosis other than STEMI were not included in the final analysis. Data were collected through medical record review. The main outcome measure was in-hospital mortality.",
+            "cite_spans": [
+                {
+                    "start": 530,
+                    "end": 582,
+                    "text": "March 16 and April 14, 2020 (during COVID-19 cohort)",
+                    "ref_id": null
+                },
+                {
+                    "start": 742,
+                    "end": 743,
+                    "text": "9",
+                    "ref_id": "BIBREF40"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Study design"
+        },
+        {
+            "text": "Continuous variables are summarized as mean AE standard deviation, whereas categorical variables are presented as frequency and percentage. Baseline comparisons between cohorts were performed using t tests or chi-square tests, as appropriate. Variables with highly skewed distributions (ie, times for first medical contact, symptom onset, catheterization laboratory arrival, and reperfusion) are presented as median and interquartile range and were compared using the nonparametric Mann-Whitney U test. Univariate logistic regression models were created to evaluate the association between the cohort group and in-hospital mortality. Multivariate logistic regression modeling was performed to eliminate potential confounders and to assess the consistency of our findings. The covariates included in the multivariate models (symptom onset to reperfusion time, age, sex, Killip class, and a positive polymerase chain reaction [PCR] test for were selected based on medical knowledge and the results of the univariate analysis. Adjusted odds ratios (ORs) and their 95% confidence intervals (95%CIs) were therefore used to estimate the association between cohort and outcomes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analysis"
+        },
+        {
+            "text": "The robustness of our findings was tested through 2 sensitivity analyses by a) removing COVID-19 individuals from the main analyses to account for their potential contribution to the increase in outcomes; and b) using a mixed regression model including hospital as a random variable, which allowed some heterogeneity in order to take into account the expected variation between hospitals (between-hospital variation), weighting each hospital accordingly to obtain an overall estimate. Two-tailed P values < .05 were considered statistically significant. All analyses were performed using STATA software version 15.1 (Stata Corp, College Station, United States).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analysis"
+        },
+        {
+            "text": "STEMI networks from 75 hospitals attended a total of 1113 patients during the COVID-19 outbreak, whereas 1538 individuals were treated in the same period the previous year, representing a drop of 27.6%. A flowchart of patients treated in the STEMI networks in the 2 time periods is shown in figure 1. Patients with confirmed STEMI diagnosis comprised 1009 and 1305, respectively (a fall of 22.7%). The trend was consistent among centers (65 of the 75 centers [87%] reported fewer STEMI events). There were also significant differences in the number of patients who required STEMI network assistance but were ultimately diagnosed with a non-ST-segment elevation acute myocardial infarction: 232 individuals (15.1%) in 2019 but 104 individuals (9.3%) in 2020 (P < .001). Figure 2 shows the absolute number of pPCIs per day during both time periods and the official number of confirmed cases according to Spanish government data. 7 During the COVID-19 outbreak, only 33 patients (3.3%) had confirmed COVID-19 diagnosis at admission; during admission, COVID-19 was diagnosed in 30 additional patients (3.0%), giving a total of 63 patients (6.3%) diagnosed with COVID-19. The COVID-19 diagnostic path in the 2020 cohort is shown in figure 3 .",
+            "cite_spans": [
+                {
+                    "start": 927,
+                    "end": 928,
+                    "text": "7",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 769,
+                    "end": 777,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1227,
+                    "end": 1235,
+                    "text": "figure 3",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Patients"
+        },
+        {
+            "text": "Patients' baseline clinical characteristics are shown in table 1. With the exception of previous coronary artery disease (more frequent in the COVID-19 cohort), the clinical characteristics were not different between the groups. The mode of presentation significantly differed between groups: during COVID-19, patients more frequently arrived at the hospital via the out-of-hospital emergency medical service and, once at the pPCI hospital, were more frequently admitted directly to the catheterization laboratory.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Patients"
+        },
+        {
+            "text": "Angiographic characteristics and the treatment performed are shown in table 2. Radial access was more frequent during COVID-19 and, although there were no differences in the initial and final TIMI flows, there was an increase in mechanical thrombectomy and IIb/IIIa inhibitor administration. There was no difference in the reperfusion strategy after coronary angiography, with up to 94% of patients treated with pPCI in both cohorts and with less than 2% of patients not undergoing any percutaneous coronary intervention.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Angiographic and procedural characteristics"
+        },
+        {
+            "text": "During the COVID-19 outbreak, there was an increase in both time from symptom onset to first medical contact ( ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Time intervals between symptom onset and reperfusion"
+        },
+        {
+            "text": "Differences in in-hospital outcomes between the 2 cohorts are shown in table 4. All-cause mortality during COVID-19 was 7.5% vs 5.1% in the prior to COVID-19 group (unadjusted OR, 1.50; 95%CI, 1.07-2.11; P < .001). This association remained consistent after adjustment for age, sex, Killip class, and time from symptom onset to reperfusion (OR, 1.88; 95%CI, 1.12-3.14; P = .017), but it was attenuated after additional adjustment for confirmed COVID-19 diagnosis (OR, 1.56; 95%CI, 0.91-2.67; P = .108).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "In-hospital outcomes"
+        },
+        {
+            "text": "The robustness of our findings was tested through 2 sensitivity analyses. By excluding COVID-19 patients from the main analyses, we removed their potential contribution to the increase in outcomes and confirmed that the excess mortality was partly explained by COVID-19 itself: the unadjusted OR (95%CI) for patients in 2020 was 1.28 (0.77-1.83) (P = .173), which remained nonsignificant after adjustment for confounding: 1.56 (0.90-2.68) (P = .11). By using random effects models, we allowed for some random heterogeneity across hospitals and obtained similar statistical significance (P = .044) for the association between inhospital mortality and patients recruited during the COVID-19 . COVID-19 diagnostic path. Patients were categorized on admission according to their COVID-19 status into 4 groups: unknown; no symptoms compatible with COVID-19 and no previous polymerase chain reaction (PCR) test; symptoms compatible with COVID-19 but no previous PCR test; and previous positive PCR test. Although a PCR assay needs to be performed at admission in all patients, it should be noted that PCR was not available in many facilities at the beginning of the pandemic, when this study was carried out. outbreak vs those recruited 1 year before: patients with STEMI during the COVID-19 outbreak were at higher risk of in-hospital mortality after adjustment for confounding (P = .033), but this significant association disappeared when COVID-19 status was introduced into the model (P = .203), suggesting that COVID-19 was the driver of the increase in in-hospital mortality between cohorts.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sensitivity analyses"
+        },
+        {
+            "text": "In our study, we evaluated the influence of the COVID-19 outbreak on the management of STEMI patients attended in specific care networks nationwide in Spain, one of the countries most affected by the current pandemic. We compared data from a national registry establishing 2 different 30-day cohorts of patients: prior to the COVID-19 outbreak (from April 1 to April 30, 2019) and during the outbreak (from March 16 to April 14, 2020).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "A previous report from our group revealed a 40% decrease in patients treated for STEMI during the first week of the current outbreak. 3 Similarly, an American study revealed an estimated 38% reduction in STEMI-related catheterization laboratory activations in 9 high-volume centers during the early phase of the COVID-19 pandemic. 4 Our results confirm a consistent decrease in the number of STEMI patients treated (in up to 87% of centers), albeit of a lower magnitude (22.7%) than initially believed. 3 In addition, there was a significant decrease in the number of patients managed in STEMI networks who ultimately received a diagnosis other than STEMI, reinforcing the belief that patients avoided hospitals. Furthermore, patients had longer delays to reperfusion, largely due to later consultation of the health system because we found no differences in the time from first medical contact to reperfusion. Ischemic time duration is a major determinant of infarct size in patients with STEMI, and prompt recognition and early management of acute STEMI is critical in reducing morbidity and mortality. [10] [11] [12] Interestingly, the COVID-19 cohort showed a higher prevalence of previous coronary artery disease and more multivessel disease, suggesting that patients with a history of ischemic heart disease may have been less reluctant to go to the hospital. Despite the logistical difficulties caused by the COVID-19 outbreak, we did not detect an increase in the time from first medical contact to reperfusion, which indicates a good adaptation of STEMI networks to the current crisis. On the contrary, there was a longer time from catheterization laboratory arrival to reperfusion, probably due to time spent on the protective measures required for the procedures. 13 Potential behavioral explanations for these results would be a combination of avoidance of medical care due to social distancing and concerns about contracting COVID-19 in hospitals. The ongoing outbreak has received massive news coverage, with particular emphasis on the most common forms of infection and places where SARS-CoV-2 spreads more easily. Fear is a well-known determinant of medical care avoidance 14 and hospital avoidance behaviors have been linked to pandemics. 15 ",
+            "cite_spans": [
+                {
+                    "start": 134,
+                    "end": 135,
+                    "text": "3",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 331,
+                    "end": 332,
+                    "text": "4",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 503,
+                    "end": 504,
+                    "text": "3",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1105,
+                    "end": 1109,
+                    "text": "[10]",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 1110,
+                    "end": 1114,
+                    "text": "[11]",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 1115,
+                    "end": 1119,
+                    "text": "[12]",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 1775,
+                    "end": 1777,
+                    "text": "13",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 2189,
+                    "end": 2191,
+                    "text": "14",
+                    "ref_id": "BIBREF45"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Fewer STEMI patients and longer delays to reperfusion"
+        },
+        {
+            "text": "Various scientific societies have developed recommendations on the reperfusion strategy during the COVID-19 outbreak, with advice that may be conflicting, depending on the conditions in each country. In China, the Peking Union Medical College Hospital recommend thrombolysis as first-line treatment and only recommend coronary intervention after COVID-19 is ruled out, even in patients with a thrombolytic contraindication. 16 The American 17 In Spain, there have been no changes to the reperfusion strategy, with more than 98% of STEMIs treated with pPCI and no increase in the use of thrombolysis, in accordance with Spanish Interventional Cardiology Association recommendations on STEMI management during the COVID-19 outbreak. 18 Two recently published short series of patients with COVID-19 who had ST-segment elevation showed a high prevalence of nonobstructive disease. 19, 20 Overall, we did not find an increase in the number of patients without obstructive lesions. This could be a) because we analyzed only patients with confirmed STEMI diagnosis and thus excluded other causes of myocardial infarction with nonobstructive coronary arteries, such as myocarditis, takotsubo syndrome, non-STEMI, and pulmonary embolism, which represented about 10% of patients in our series; or b) because previously published data probably concerned nonconsecutive and highly selected patients.",
+            "cite_spans": [
+                {
+                    "start": 424,
+                    "end": 426,
+                    "text": "16",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 440,
+                    "end": 442,
+                    "text": "17",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 731,
+                    "end": 733,
+                    "text": "18",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 877,
+                    "end": 880,
+                    "text": "19,",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 881,
+                    "end": 883,
+                    "text": "20",
+                    "ref_id": "BIBREF51"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Reperfusion strategies and angiographic findings in STEMI during the COVID-19 outbreak"
+        },
+        {
+            "text": "A particularly relevant finding of our study is a disturbing elevation in in-hospital mortality during the COVID-19 outbreak. This increase remained consistent after adjustment for age, sex, Killip class, and time from symptom onset to reperfusion.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Impact of the COVID-19 outbreak on STEMI-related mortality"
+        },
+        {
+            "text": "Recent epidemiologic data suggest a significant increase in mortality during this period that cannot be fully explained by COVID-19 patients alone. 21 In the current situation, patients avoid going to the emergency services, or defer going, which could explain the increase in out-of-hospital cardiac arrest, as recently described in Italy. 22 Although it is difficult to determine the real Catheterization laboratory arrival to reperfusion, min",
+            "cite_spans": [
+                {
+                    "start": 148,
+                    "end": 150,
+                    "text": "21",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 341,
+                    "end": 343,
+                    "text": "22",
+                    "ref_id": "BIBREF53"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Impact of the COVID-19 outbreak on STEMI-related mortality"
+        },
+        {
+            "text": "Prior to COVID-19 (n = 898) 20 [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] < .001",
+            "cite_spans": [
+                {
+                    "start": 31,
+                    "end": 35,
+                    "text": "[15]",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 36,
+                    "end": 40,
+                    "text": "[16]",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 41,
+                    "end": 45,
+                    "text": "[17]",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 46,
+                    "end": 50,
+                    "text": "[18]",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 51,
+                    "end": 55,
+                    "text": "[19]",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 56,
+                    "end": 60,
+                    "text": "[20]",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 61,
+                    "end": 65,
+                    "text": "[21]",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 66,
+                    "end": 70,
+                    "text": "[22]",
+                    "ref_id": "BIBREF53"
+                },
+                {
+                    "start": 71,
+                    "end": 75,
+                    "text": "[23]",
+                    "ref_id": "BIBREF54"
+                },
+                {
+                    "start": 76,
+                    "end": 80,
+                    "text": "[24]",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 81,
+                    "end": 85,
+                    "text": "[25]",
+                    "ref_id": "BIBREF56"
+                },
+                {
+                    "start": 86,
+                    "end": 90,
+                    "text": "[26]",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 91,
+                    "end": 95,
+                    "text": "[27]",
+                    "ref_id": null
+                },
+                {
+                    "start": 96,
+                    "end": 100,
+                    "text": "[28]",
+                    "ref_id": null
+                },
+                {
+                    "start": 101,
+                    "end": 105,
+                    "text": "[29]",
+                    "ref_id": null
+                },
+                {
+                    "start": 106,
+                    "end": 110,
+                    "text": "[30]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Impact of the COVID-19 outbreak on STEMI-related mortality"
+        },
+        {
+            "text": "During COVID-19 (n = 906) 24 [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] < .001 prevalence of out-of-hospital cardiac arrest in the setting of STEMI, we did not observe an increase in cases of ventricular fibrillation or asystole or in a need for mechanical ventilation prior to the catheterization laboratory in patients with confirmed STEMI. Up to 75% of deaths are estimated to occur before contact with the health system 23 and the main way to prevent out-of-hospital cardiac arrest is for patients to seek hospital treatment as soon as symptoms of STEMI appear. 24 Therefore, it is possible that an increase in out-of-hospital cardiac arrest may not be reflected in our study. Lack of access to reperfusion treatment would also increase subacute STEMI complications, such as heart failure and/or cardiogenic shock, intraventricular thrombus formation and peripheral embolism, and mechanical complications. 25 These patients were not included in the present registry because they were not candidates for pPCI but they undoubtedly contribute to STEMI-related excess mortality.",
+            "cite_spans": [
+                {
+                    "start": 29,
+                    "end": 33,
+                    "text": "[17]",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 34,
+                    "end": 38,
+                    "text": "[18]",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 39,
+                    "end": 43,
+                    "text": "[19]",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 44,
+                    "end": 48,
+                    "text": "[20]",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 49,
+                    "end": 53,
+                    "text": "[21]",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 54,
+                    "end": 58,
+                    "text": "[22]",
+                    "ref_id": "BIBREF53"
+                },
+                {
+                    "start": 59,
+                    "end": 63,
+                    "text": "[23]",
+                    "ref_id": "BIBREF54"
+                },
+                {
+                    "start": 64,
+                    "end": 68,
+                    "text": "[24]",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 69,
+                    "end": 73,
+                    "text": "[25]",
+                    "ref_id": "BIBREF56"
+                },
+                {
+                    "start": 74,
+                    "end": 78,
+                    "text": "[26]",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 79,
+                    "end": 83,
+                    "text": "[27]",
+                    "ref_id": null
+                },
+                {
+                    "start": 84,
+                    "end": 88,
+                    "text": "[28]",
+                    "ref_id": null
+                },
+                {
+                    "start": 89,
+                    "end": 93,
+                    "text": "[29]",
+                    "ref_id": null
+                },
+                {
+                    "start": 94,
+                    "end": 98,
+                    "text": "[30]",
+                    "ref_id": null
+                },
+                {
+                    "start": 99,
+                    "end": 103,
+                    "text": "[31]",
+                    "ref_id": null
+                },
+                {
+                    "start": 598,
+                    "end": 600,
+                    "text": "24",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 942,
+                    "end": 944,
+                    "text": "25",
+                    "ref_id": "BIBREF56"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Impact of the COVID-19 outbreak on STEMI-related mortality"
+        },
+        {
+            "text": "Finally, in the long term, suboptimal revascularization and a larger infarct size will increase complications related to worse ventricular remodeling, such as chronic heart failure and ventricular arrhythmias. 26 ",
+            "cite_spans": [
+                {
+                    "start": 210,
+                    "end": 212,
+                    "text": "26",
+                    "ref_id": "BIBREF57"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Impact of the COVID-19 outbreak on STEMI-related mortality"
+        },
+        {
+            "text": "This study has limitations inherent to the analysis of multicentric observational data. Baseline and follow-up data were assessed at the center-level by each clinician-investigator, without central confirmation, potentially resulting in inaccuracies and misclassifications. Nevertheless, data on interventional cardiology are quite standardized worldwide and the electronic case report form was designed to be intuitively and universally completed by all clinicians. Moreover, we applied a mixed regression model including hospital as a random variable, which considered within-and between-hospital variations over time. In any case, the potential variability among clinicians approximates our findings to those of clinical practice and improves their generalizability. Any potential selection bias was addressed by adjustment of logistic regressions for potential confounders with prognostic implications, although some residual confounding (either measured or unmeasured) might remain after multivariate modeling.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Limitations"
+        },
+        {
+            "text": "In conclusion, this nationwide, observational study has revealed a decrease in the number of patients with STEMI managed during the current COVID-19 outbreak, with an increase in time from symptom onset to reperfusion and a significant 2-fold increase in in-hospital mortality. No changes in reperfusion strategy were detected. Concomitant SARS-CoV-2 infection in STEMI patients was infrequent but had an impact on in-hospital mortality.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONCLUSIONS"
+        },
+        {
+            "text": "A. P\u00e9 rez de Prado has received personal fees from iVascular, Boston Scientific, Terumo, B. Braun, and Abbott Laboratories. \u00c1 . Cequier has received personal fees from Ferrer International, Terumo, AstraZeneca, and Biotronik. All other authors have reported that they have no relationship relevant to the contents of this paper to disclose.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONFLICTS OF INTEREST"
+        },
+        {
+            "text": "-Some preliminary reports have highlighted a decrease in the number of STEMI patients attending hospitals during the current COVID-19 outbreak. -There is little information on the influence of the COVID-19 outbreak on STEMI care and outcomes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "WHAT IS KNOWN ABOUT THE TOPIC?"
+        },
+        {
+            "text": "WHAT DOES THIS STUDY ADD?",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "WHAT IS KNOWN ABOUT THE TOPIC?"
+        },
+        {
+            "text": "-We found a significant decrease in the number of patients with STEMI managed in specific care networks in Spain during COVID-19. -When compared with a cohort from the previous year, patients managed during the COVID-19 outbreak had a longer ischemia time and increased mortality, although there were no differences in the reperfusion strategy. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "WHAT IS KNOWN ABOUT THE TOPIC?"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "APPENDIX. WORKING GROUP ON THE INFARCT CODE OF THE SPANISH INTERVENTIONAL CARDIOLOGY ASSOCIATION INVESTIGATORS Key personnel and participating study sites: Manuel Villa",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Hospital Universitario Reina Sof\u00eda; M\u00e9 rida C\u00e1 rdenas",
+            "authors": [
+                {
+                    "first": "Soledad",
+                    "middle": [],
+                    "last": "Ojeda",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Hospital Universitario Puerta del Mar; Jes\u00fa s Oneto",
+            "authors": [
+                {
+                    "first": "Livia",
+                    "middle": [],
+                    "last": "Gheorghe",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Hospital Universitario de Cabue\u00f1 es",
+            "authors": [
+                {
+                    "first": "Juan",
+                    "middle": [],
+                    "last": "Rond\u00e1 N",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Hospital Universitari Son Espases",
+            "authors": [
+                {
+                    "first": "Vicente",
+                    "middle": [],
+                    "last": "Peral",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Policl\u00ednica Nuestra Se\u00f1 ora del Rosario",
+            "authors": [
+                {
+                    "first": "Luc\u00eda",
+                    "middle": [],
+                    "last": "Vera",
+                    "suffix": ""
+                },
+                {
+                    "first": "Pernasetti",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Julio Hern\u00e1 ndez, Hospital Universitario Nuestra Se\u00f1 ora de Candelaria",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Jes\u00fa s Jim\u00e9 nez-Mazuecos",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Hospital General Universitario de Ciudad Real",
+            "authors": [
+                {
+                    "first": "Fernando",
+                    "middle": [],
+                    "last": "Lozano",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Felipe Fern\u00e1 ndez-V\u00e1 zquez",
+            "authors": [],
+            "year": null,
+            "venue": "Hospital de Le\u00f3 n",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Hospital de la",
+            "authors": [
+                {
+                    "first": "Joan",
+                    "middle": [],
+                    "last": "Garc\u00eda-Picart",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Hospital Universitari Vall d'Hebron",
+            "authors": [
+                {
+                    "first": "Bruno Garc\u00eda Del",
+                    "middle": [],
+                    "last": "Blanco",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Hospital Universitari Joan REFERENCES 1. World Health Organization. Coronavirus disease 2019 situation report",
+            "authors": [
+                {
+                    "first": "Mohsen",
+                    "middle": [],
+                    "last": "Mohandes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gesti\u00f3 n de la situaci\u00f3 n de crisis sanitaria ocasionada por el COVID-19. \u00abBOE\u00bb n\u00fa m. 67, de 14 de marzo de 2020, p\u00e1 ginas 25390 a 25400 (11 p\u00e1 gs.), I. Disposiciones generales",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Impact of the COVID-19 pandemic on interventional cardiology activity in Spain",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Rodr\u00edguez-Leor",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Cid-\u00c1 Lvarez",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ojeda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "REC Interv Cardiol",
+            "volume": "2",
+            "issn": "",
+            "pages": "82--89",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Reduction in ST-segment elevation cardiac catheterization laboratory activations in the United States during COVID-19 pandemic",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Garcia",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Albaghdadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mejran",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Am Coll Cardiol",
+            "volume": "75",
+            "issn": "",
+            "pages": "2871--2872",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Reduced rate of hospital admissions for ACS during Covid-19 outbreak in northern Italy",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "De Filippo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "&apos;ascenzo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Angelini",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "383",
+            "issn": "",
+            "pages": "88--89",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Decrease in ST-segment elevation myocardial infarction admissions in Catalonia during the COVID-19 pandemic",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Romaguera",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ribera",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "G\u00fc Ell-Vilaplana",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Rev Esp Cardiol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.rec.2020.06.001"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Influence of age and gender on arrival of patients with ST-segment elevation acute myocardial infarction to tertiary centers during COVID-19 pandemic. Experience of Madrid Spain STEMI Network (Codigo Infarto Madrid)",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Moreno",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Alonso",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Caballero",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Am J Emerg Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ajem.2020.06.013"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "P\u00e9 rez de Prado A; Spanish Cardiac Catheterization and Coronary Intervention Registry. 28th Official Report of the Spanish Society of Cardiology Working Group on Cardiac Catheterization and Interventional Cardiology",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Cid-\u00c1 Lvarez",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Rodr\u00edguez-Leor",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Moreno",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Rev Esp Cardiol",
+            "volume": "72",
+            "issn": "",
+            "pages": "1043--1053",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC)",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ibanez",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "James",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Agewall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Eur Heart J",
+            "volume": "39",
+            "issn": "",
+            "pages": "119--177",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Time delay to treatment and mortality in primary angioplasty for acute myocardial infarction: every minute of delay counts",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "De Luca",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Suryapranata",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Ottervanger",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Antman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Circulation",
+            "volume": "109",
+            "issn": "",
+            "pages": "1223--1225",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Impact of time to treatment on myocardial reperfusion and infarct size with primary percutaneous coronary intervention for acute myocardial infarction (from the EMERALD Trial)",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Brodie",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Webb",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cox",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Am J Cardiol",
+            "volume": "99",
+            "issn": "",
+            "pages": "1680--1686",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Editor's Choice-Pathophysiology and therapy of myocardial ischaemia/reperfusion syndrome",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Rossello",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lobo-Gonzalez",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ibanez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Eur Heart J Acute Cardiovasc Care",
+            "volume": "8",
+            "issn": "",
+            "pages": "443--456",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Consensus document of the Interventional Cardiology and Heart Rhythm Associations of the Spanish Society of Cardiology on the management of invasive cardiac procedure rooms during the COVID-19 coronavirus outbreak",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Romaguera",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Cruz-Gonz\u00e1 Lez",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ojeda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "REC Interv Cardiol",
+            "volume": "2",
+            "issn": "",
+            "pages": "106--111",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Predictors of avoiding medical care and reasons for avoidance behavior",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Kannan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Veazie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Med Care",
+            "volume": "52",
+            "issn": "",
+            "pages": "336--345",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Avoidance behaviors and negative psychological responses in the general population in the initial stage of the H1N1 pandemic in Hong Kong",
+            "authors": [
+                {
+                    "first": "Jtf",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Griffiths",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Choi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Tsui",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "BMC Infect Dis",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Recommendations from the Peking Union Medical College Hospital for the management of acute myocardial infarction during the COVID-19 outbreak",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Jung",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Chai",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Eur Heart J",
+            "volume": "41",
+            "issn": "",
+            "pages": "1791--1794",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Catheterization laboratory considerations during the coronavirus (COVID-19) pandemic: From the ACC's Interventional Council and SCAI",
+            "authors": [
+                {
+                    "first": "Fgp",
+                    "middle": [],
+                    "last": "Welt",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Shah",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Aronow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Am Coll Cardiol",
+            "volume": "75",
+            "issn": "",
+            "pages": "2372--2375",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Considerations on the invasive management of ischemic and structural heart disease during the COVID-19 coronavirus outbreak, Consensus statement of the Interventional Cardiology Association and the Ischemic Heart Disease and Acute Cardiac Care Association of the Spanish Society of Cardiology",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Romaguera",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Cruz-Gonz\u00e1 Lez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Jurado-Rom\u00e1 N",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "REC Interv Cardiol",
+            "volume": "2",
+            "issn": "",
+            "pages": "112--117",
+            "other_ids": {}
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "ST-segment elevation in patients with Covid-19 -A cases series",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bangalore",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sharma",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Slotwiner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "2478--2480",
+            "other_ids": {}
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "ST-elevation myocardial infarction in patients with COVID-19: clinical and angiographic outcomes",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Stefanini",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Montorfano",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Trabattoni",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Circulation",
+            "volume": "141",
+            "issn": "",
+            "pages": "2113--2116",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Vigilancia de los excesos de mortalidad por todas las causas",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Out-of-hospital cardiac arrest during the Covid-19 outbreak in Italy",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Baldi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Sechi",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Mare",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "383",
+            "issn": "",
+            "pages": "496--498",
+            "other_ids": {}
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Trends in out-of-hospital deaths due to coronary heart disease in Sweden",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Dudas",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lappas",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Stewart",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rosengren",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Circulation",
+            "volume": "123",
+            "issn": "",
+            "pages": "46--52",
+            "other_ids": {}
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Incidence, mortality, and outcome-predictors of sudden cardiac arrest complicating myocardial infarction prior to hospital admission",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Karam",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bataille",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Marijon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Circ Cardiovasc Interv",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Collateral damage: medical care avoidance behavior among patients with myocardial infarction during the COVID-19 pandemic. JACC: Cases Reports",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Moroni",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gramegna",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ajello",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jaccas.2020.04.010"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Left ventricular remodeling and ventricular arrhythmias after myocardial infarction",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "St John Sutton",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Rouleau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Circulation",
+            "volume": "107",
+            "issn": "",
+            "pages": "2577--2582",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Patient flowchart. NSTEMI, non-ST-segment elevation acute myocardial infarction, PCI, percutaneous coronary intervention; STEMI, non-ST-segment elevation acute myocardial infarction.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Absolute number of primary percutaneous coronary interventions per day during both time periods and the official number of confirmed COVID-19 cases. Numbers of confirmed COVID-19 cases are according to official Spanish government data. 7 PCI, percutaneous coronary intervention.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure 3. COVID-19 diagnostic path. Patients were categorized on admission according to their COVID-19 status into 4 groups: unknown; no symptoms compatible with COVID-19 and no previous polymerase chain reaction (PCR) test; symptoms compatible with COVID-19 but no previous PCR test; and previous positive PCR test. Although a PCR assay needs to be performed at admission in all patients, it should be noted that PCR was not available in many facilities at the beginning of the pandemic, when this study was carried out.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Time intervals between symptom onset and reperfusion.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "105 [45-222] vs 71 [30-180] minutes, P < .001) and time from symptom onset to reperfusion (233 [150-375] vs 200 [140-332] minutes, P < .001). In contrast, no differences were observed in the time from first medical contact to reperfusion (110 [80-155] minutes vs 110 [81-151] minutes, P = .54). Five different time intervals between symptom onset and reperfusion are shown in table 3 and figure 4.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Baseline clinical characteristics of patients with confirmed diagnosis of STEMI PCI, percutaneous coronary intervention; pPCI, primary percutaneous coronary intervention; STEMI, ST-segment elevation myocardial infarction. Values are reported as No. (%) or mean AE standard deviation.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Angiographic and procedural characteristics of patients with confirmed diagnosis of STEMI",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Time intervals between symptom onset and reperfusionFirst medical contact to catheterization laboratory arrival, min",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "In-hospital outcomes of patients with confirmed diagnosis of STEMI PCI, percutaneous coronary intervention; STEMI, ST-segment elevation myocardial infarction. Values are reported as No. (%).",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "XXIII; Juan Casanova, Hospital Universitari Arnau de Vilanova; V\u00edctor Agudelo-Monta\u00f1 ez, Hospital Universitari de Girona Josep Trueta; Juan Francisco Mu\u00f1 oz, Hospital Universitari M\u00fa tua de Tarrassa; Juan Franco, Hospital Universitario Fundaci\u00f3 n Jim\u00e9 nez D\u00edaz; Roberto del Castillo, Hospital Universitario Fundaci\u00f3 n",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}
